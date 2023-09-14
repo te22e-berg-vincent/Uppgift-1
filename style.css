@@ -62,3 +62,14 @@ width: 650px;
 height: 400px;
 
 }
+.kal{
+text-align: center;
+border: solid black;
+padding: 5px;
+}
+
+.kal *{
+    border-collapse: collapse;
+border: solid red;
+
+}
